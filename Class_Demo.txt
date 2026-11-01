@@ -1,3 +1,5 @@
 Python is a programming Language.
 Machine Learning is use for Predictive Analytics.
 I Love Python and Machine Learning.
+I only Love Python.
+
